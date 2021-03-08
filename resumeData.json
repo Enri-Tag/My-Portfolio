@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Romano Enrico",
+    "occupation": "Ceo & Founder Qube-Site",
+    "description": "I'm Junior Web Developer Full-Stack",
+    "image": "I.jpg",
+    "image2":"My-Logo.png",
+    "bio": "Hi guys, my name is Enrico Romano I'm a junior Full-Stack Web Developer, the passion for programming is transmitted to me by my father who is also a programmer. I start by attending a technical computer school, and about three years ago I was struck by a website with animations that greatly caught my attention, From there I started studying web development and today I am finally able to create sites with the same animations that struck me that day.",
+    "contactMessage": "Contact for your needs, I'm at your disposal.",
+    "contactInfo": "Fields with * are required.",
+    "email": "enrico.romano.ct03@gmail.com",
+    "phone": "+39 345/1606311",
+    "address": {
+      "street": "Via G.Dannunzio",
+      "city": "Catania",
+      "state": "Tre mestieri etneo (IT)",
+      "zip": "Cap: 95030"
+    },
+    "website": "https://www.Qube-Site.com/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/EnricoRomano03/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/enrico_romano03/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Enri-Tag",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "I.T.I.S. G.Marconi - CT",
+        "degree": "Attending",
+        "graduated": "June 2022",
+        "description": "Developing e web Master course"
+      }
+    ],
+    "work": [
+      {
+        "company": "Qube-Site",
+        "title": "Founder & CEO, Junior Web Developer Full-Stack ",
+        "years": "October 2020- Present",
+        "description": "Bringing to life what the REAL world of Web Dev is. Developing websites/ web apps of all kind. Managing and directing various Teams."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "React.js",
+        "level": "60%"
+      },
+      {
+        "name": "PHP",
+        "level": "40%"
+      },
+      {
+        "name": "Angular",
+        "level": "30%"
+      },
+      {
+        "name": "C#",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Web Site MB-Consulenza",
+        "category": "Web Site  for Business consultant",
+        "image": "LogoOK.png",    
+        "url":   "https://mbconsulenzaweb.it/"
+      },
+      {
+        "title": "Web Site Qube-Site",
+        "category": "Web Site for my Company",
+        "image": "logo.gif",
+        "url":"https://qube-site.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Working with Enrico and Qube-Site I managed to get the site wanted, satisfying my every request they gave me an effective linear site.",
+        "user": "Blanca Manuela 'Ceo & Founder MB-Consulenza' "
+      }
+    ]
+  }
+}
